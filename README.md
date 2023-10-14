@@ -14,7 +14,7 @@ Esta é uma API simples que permite a criação, leitura, atualização e exclus
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/api-blog.git
+git clone https://github.com/KlevissonWeskley/api-blog.git
 cd api-blog
 
 # Instale as dependências
